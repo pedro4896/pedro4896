@@ -31,3 +31,9 @@
   - 📫 Contate-me: pedrovictordasilvapereira4896@gmail.com<br>
   - 😄 Pronouns: ele/dele<br>
 </div>
+  
+##
+ 
+<div>
+  <img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/github-contribution-grid-snake.svg"/>
+</div>
