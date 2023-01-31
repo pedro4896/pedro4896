@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/pedro4896)
 ### Oii, Eu sou Pedro Victor 👋
 
 ##
