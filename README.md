@@ -34,6 +34,5 @@
   
 ##
  
-<div>
-  <img src="https://github.com/pedro4896/pedro4896/blob/main/github-contribution-grid-snake.svg"/>
-</div>
+![snake gif](https://github.com/pedro4896/pedro4896/blob/output/github-contribution-grid-snake.svg)
+
