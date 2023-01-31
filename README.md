@@ -1,10 +1,10 @@
 ### Oii, Eu sou Pedro Victor 👋
 
 ##
-<div>
+<div align=center>
   <a href="https://linktr.ee/pedro4896">
-  <img align="center" height= 180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/><br>
-  <img align="center" height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/><br><br>
+  <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
