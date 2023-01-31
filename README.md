@@ -3,11 +3,11 @@
 ##
 <div align=center>
   <a href="https://linktr.ee/pedro4896">
-  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/><br><br>
+  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/><br>
   <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
