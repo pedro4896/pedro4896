@@ -4,8 +4,8 @@
 ##
 <div align=center>
   <a href="https://linktr.ee/pedro4896">
-  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true#gh-dark-mode-only"/><br>
-  <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"/><br>
+  <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=16&theme=github_dark&locale=pt-br"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -28,9 +28,9 @@
 ##
   
 <div>
-  - 🔭 Developer | Full-Stack (em andamento)<br>
+  - 🔭 Desenvolvedor | Full-Stack (em andamento)<br>
   - 📫 Contate-me: pedrovictordasilvapereira4896@gmail.com<br>
-  - 😄 Pronouns: ele/dele<br>
+  - 😄 Pronomes: ele/dele<br>
 </div>
   
 ##
