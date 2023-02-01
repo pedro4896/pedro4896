@@ -8,11 +8,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedro4896&bg_color=0d1117&color=1A57B5&line=1C2F45&point=4C8EDA&area=true&hide_border=true&locale=pt-br)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedro4896&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
-<div align=center><br>
+<div align=center>
   <a href="https://linktr.ee/pedro4896">
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"/>
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=10&theme=github_dark&locale&pt-br&custom_title=Linguagens&nbsp;mais&nbsp;utilizadas"/>
