@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=header"/>
+
 <div align="center">
     <br><p align="center"><strong>Contador de visitas</strong></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedro4896}/count.svg"/></p> 
