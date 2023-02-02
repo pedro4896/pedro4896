@@ -1,11 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=header"/>
 
-<div align="center">
-    <br><p align="center"><strong>Contador de visitas</strong></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedro4896}/count.svg"/></p> 
-    <br>
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8EDA&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+&eacute;+Pedro+Victor;Eu+tenho+18+anos+;Sou+brasileiro+;E+Técnico+em+Informática+;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedro4896&bg_color=0d1117&color=1A57B5&line=1C2F45&point=4C8EDA&area=true&hide_border=true&locale=pt-br)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -52,5 +46,11 @@
 ##
  
 ![snake gif](https://github.com/pedro4896/pedro4896/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+    <br><p align="center"><strong>Contador de visitas</strong></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedro4896}/count.svg"/></p> 
+    <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=footer"/>
