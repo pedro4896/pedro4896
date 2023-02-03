@@ -13,13 +13,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pedro4896&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>-->
 
- ### Minhas habilidades:
+ ### Tecnologias e Ferramentas:
  <div style="display=inline-block">
     <img height=40 title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
     <img height=40 title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
     <img height=40 title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
     <img height=40 title="MySql" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-    <img height=40 title="Arduino" alt="Arduino"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+    <img height=40 title="Arduino" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+    <img height=40 title="Opera" alt="Opera" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg"/>
+    <img height=40 title="VsCode" alt="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  </div>
  
 <!--![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -29,7 +31,7 @@
   
 ##  
   
-### Meus estudos: 
+### Estou aprendendo: 
 <div style="display=inline-block">
   <img height=40 title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
   <img height=40 title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&nbsp;  
