@@ -55,7 +55,7 @@
 <div style="display=inline-block"> 
   <a href="https://www.instagram.com/pedro_victor4896/" target="_blank"><img height=40 title="Instagram" alt="Instagram" src="https://icongr.am/simple/instagram.svg?size=128&color=currentColor&colored=true" target="_blank"></a>
   <a href="https://twitter.com/PedroVi34994476" target="_blank"><img height=40 title="Twitter" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-victor-12408625b/" target="_blank"><img height=40 title="Linkedin" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
+  <a href="https://www.linkedin.com/in/pedro-victor-dev/" target="_blank"><img height=40 title="Linkedin" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
  	<a href="https://www.twitch.tv/pedrovictor4896" target="_blank"><img title="Twitch" alt="Twitch" height=40 src="https://icongr.am/simple/twitch.svg?size=128&color=currentColor&colored=true" target="_blank"></a>
   <a href = "mailto:pedrovictordasilvapereira4896@gmail.com"><img title="Gmail" alt="Gmail"  height=40 src="https://icongr.am/simple/gmail.svg?size=128&color=currentColor&colored=true" target="_blank"></a>
 </div>
