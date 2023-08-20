@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8EDA&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+&eacute;+Pedro+Victor;Eu+tenho+19+anos+;Sou+brasileiro+;E+Estou+cursando+Bacharelado+em+Engenharia+de+Software+;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedro4896&bg_color=0d1117&color=1A57B5&line=1C2F45&point=4C8EDA&area=true&hide_border=true&custom_title=Gráfico&nbsp;de&nbsp;contribuição&nbsp;Pedro&nbsp;Victor)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro4896&bg_color=0d1117&color=1A57B5&line=1C2F45&point=4C8EDA&area=true&hide_border=true&custom_title=Gráfico&nbsp;de&nbsp;contribuição&nbsp;Pedro&nbsp;Victor)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"/>
