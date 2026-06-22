@@ -4,7 +4,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&color=4FC3F7&size=28&center=true&vCenter=true&width=1000&height=80&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Pedro+Victor;Estudante+de+Engenharia+de+Software;Desenvolvedor+Web+e+Entusiasta+em+Rob%C3%B3tica;Bem-vindo+ao+meu+Perfil!&duration=3000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&color=4FC3F7&size=28&center=true&vCenter=true&width=1000&height=80&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Pedro+Victor;Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack+e+Entusiasta+em+Rob%C3%B3tica;Bem-vindo+ao+meu+Perfil!&duration=3000" alt="Typing SVG" />
   </a>
 </div>
 
@@ -50,10 +50,10 @@
 </div>
 <br>
 <div align="center" style="gap: 10px;">
-  <img height="35" src="https://img.shields.io/badge/Machine%20Learning-0f1117?style=for-the-badge&logoColor=4FC3F7" style="border: 1px solid #FF6B1A; border-radius: 5px;">
-  <img height="35" src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-0f1117?style=for-the-badge&logoColor=4FC3F7" style="border: 1px solid #FF6B1A; border-radius: 5px;">
-  <img height="35" src="https://img.shields.io/badge/IoT-0f1117?style=for-the-badge&logoColor=4FC3F7" style="border: 1px solid #FF6B1A; border-radius: 5px;">
-  <img height="35" src="https://img.shields.io/badge/EasyEDA-0f1117?style=for-the-badge&logo=easyeda&logoColor=4FC3F7" style="border: 1px solid #FF6B1A; border-radius: 5px;">
+  <img height="35" src="https://img.shields.io/badge/-Machine%20Learning-1e222d?style=for-the-badge&logo=scikitlearn&logoColor=FF6B1A">
+  <img height="35" src="https://img.shields.io/badge/-Vis%C3%A3o%20Computacional-1e222d?style=for-the-badge&logo=opencv&logoColor=FF6B1A">
+  <img height="35" src="https://img.shields.io/badge/-IoT-1e222d?style=for-the-badge&logo=espressif&logoColor=FF6B1A">
+  <img height="35" src="https://img.shields.io/badge/-EasyEDA-1e222d?style=for-the-badge&logo=easyeda&logoColor=FF6B1A">
 </div>
 
 <br>
@@ -61,19 +61,13 @@
 <h3 align="center" style="color: #4FC3F7; font-family: 'Orbitron', sans-serif;">📡 Contatos</h3>
 <div align="center" style="gap: 10px;">
   <a href="https://www.linkedin.com/in/pedro-victor-dev/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-LinkedIn-0f1117?style=for-the-badge&logo=linkedin&logoColor=4FC3F7&labelColor=0f1117&color=0f1117" style="border: 1px solid #FF6B1A; border-radius: 5px;">
+    <img height="40" src="https://img.shields.io/badge/-LinkedIn-1e222d?style=for-the-badge&logo=linkedin&logoColor=4FC3F7">
   </a>
   <a href="mailto:pedrovictordasilvapereira4896@gmail.com" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Gmail-0f1117?style=for-the-badge&logo=gmail&logoColor=4FC3F7&labelColor=0f1117&color=0f1117" style="border: 1px solid #FF6B1A; border-radius: 5px;">
+    <img height="40" src="https://img.shields.io/badge/-Gmail-1e222d?style=for-the-badge&logo=gmail&logoColor=4FC3F7">
   </a>
   <a href="https://www.instagram.com/pedro_victor4896/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Instagram-0f1117?style=for-the-badge&logo=instagram&logoColor=4FC3F7&labelColor=0f1117&color=0f1117" style="border: 1px solid #FF6B1A; border-radius: 5px;">
-  </a>
-  <a href="https://twitter.com/PedroVi34994476" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Twitter-0f1117?style=for-the-badge&logo=twitter&logoColor=4FC3F7&labelColor=0f1117&color=0f1117" style="border: 1px solid #FF6B1A; border-radius: 5px;">
-  </a>
-  <a href="https://www.twitch.tv/pedrovictor4896" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Twitch-0f1117?style=for-the-badge&logo=twitch&logoColor=4FC3F7&labelColor=0f1117&color=0f1117" style="border: 1px solid #FF6B1A; border-radius: 5px;">
+    <img height="40" src="https://img.shields.io/badge/-Instagram-1e222d?style=for-the-badge&logo=instagram&logoColor=4FC3F7">
   </a>
 </div>
 
