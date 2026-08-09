@@ -30,17 +30,20 @@
 
 <div align="center">
   <!-- Stats -->
+<div align="center">
+
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=pedro4896&count_private=true&show_icons=true&bg_color=0f1117&title_color=4FC3F7&text_color=ffffff&icon_color=FF6B1A&border_color=4FC3F7&include_all_commits=true&locale=pt-br"
+    src="./profile/stats.svg"
     alt="Estatísticas do GitHub"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro4896&layout=compact&langs_count=10&bg_color=0f1117&title_color=4FC3F7&text_color=ffffff&icon_color=FF6B1A&border_color=4FC3F7&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas"
+    src="./profile/top-langs.svg"
     alt="Linguagens Mais Usadas"
   />
+
 </div>
 
 <br>
