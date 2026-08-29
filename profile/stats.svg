@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Pedro Victor, Rank: C+</title>
-        <desc id="descId">Total de estrelas: 5, Total de Commits  : 457, Total de PRs: 5, Total de Issues: 0, Contribuiu para (ano passado): 4</desc>
+        <desc id="descId">Total de estrelas: 6, Total de Commits  : 457, Total de PRs: 5, Total de Issues: 0, Contribuiu para (ano passado): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 216.70721160999295;
+        stroke-dashoffset: 214.93330271468534;
       }
     }
   
@@ -162,7 +162,7 @@
         x="274.01"
         y="12.5"
         data-testid="stars"
-      >5</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
